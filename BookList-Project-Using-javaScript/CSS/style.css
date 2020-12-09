@@ -1,0 +1,37 @@
+.success , error{
+    margin: 5px;
+    padding: 15px 0 15px 0;
+    color: white;
+}
+.success{
+    background:green ;
+}
+.error{
+    background: red;
+}
+#submitoption{
+    background-color: aqua;
+}
+body{
+    background-color: aliceblue;
+}
+.add{
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+    background: chartreuse;
+    width: auto;
+}
+.delete{
+    
+    text-decoration: none;
+    
+}
+.delete:hover{
+    background-color: yellow;
+    text-decoration: none;
+    
+}
+#book-list{
+   border-color: aqua;
+}
